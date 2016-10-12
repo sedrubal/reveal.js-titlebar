@@ -9,6 +9,7 @@ Adds a bar containing author and title to the bottom of the slides.
 Usage
 -----
 
+ - Install with `bower install reveal.js-titlebar`
  - Add `<title>The Power of Reveal.js</title>` to the head of your presentation
  - Add `<meta name="author" content="John Doe" />` to the head of your presentation
  - Add `{ src: 'titlebar/titlebar.js', async: true },` to the dependencies section

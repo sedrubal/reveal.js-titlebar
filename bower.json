@@ -1,0 +1,24 @@
+{
+  "name": "reveal.js-titlebar",
+  "main": "titlebar.js",
+  "authors": [
+    "sedrubal <dev@sedrubal.de>"
+  ],
+  "description": "Adds a bar containing author and title to the bottom of the slides.",
+  "keywords": [
+    "titlebar",
+    "reveal.js",
+    "presentation",
+    "headline"
+  ],
+  "license": "GPLv3",
+  "homepage": "https://github.com/sedrubal/reveal.js-titlebar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.png"
+  ]
+}
